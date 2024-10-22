@@ -4,6 +4,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-include device/google/raviole/BoardConfigLineage.mk
+include device/google/raviole/BoardConfigCustom.mk
 
 include vendor/google/raven/BoardConfigVendor.mk
